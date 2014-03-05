@@ -1,0 +1,2 @@
+<input type="text" id="new-todo" name="new-todo" placeholder="Add a todo" />
+<a href="#",  id='hidden_click'/>

@@ -1,0 +1,1 @@
+<input class='title_edit' id="editTodo" value="<%= @model.get('content')%>">
